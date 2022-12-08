@@ -1,0 +1,31 @@
+@import url ('https://fonts.googleapis.com/css2? família=Courier+Prime&display=swap');
+
+
+body{
+    background-color: #000000;
+}
+
+
+.navbar-brand{
+    height: 45px;
+    width: 40px;
+}
+
+pre{
+    font-size: 20px;
+}
+
+.card{
+    background: none;
+    height: 100%;
+}
+
+.container{
+    margin-right: 20%;
+    padding: 2rem;
+}
+
+img{
+    height: 350px;
+}
+    
